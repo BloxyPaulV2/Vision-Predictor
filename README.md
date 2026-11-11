@@ -22,7 +22,7 @@ Analyze seed hashes, verify provably fair outcomes, and gain a statistical edge 
 
 </div>
 
-$$\footnotesize\color{gray}\textsf{👆 Click the button above to download the latest version}$$
+$$\tiny\color{gray}\textsf{👆 Click the button above to download the latest version}$$
 
 ## 📖 About
 
