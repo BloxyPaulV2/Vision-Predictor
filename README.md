@@ -16,7 +16,7 @@ Analyze seed hashes, verify provably fair outcomes, and gain a statistical edge 
 
 ---
 
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+[![Download](https://img.shields.io/badge/⬇_Download-Latest_Release-00C853?style=for-the-badge&logo=github&logoColor=white)](YOUR_DOWNLOAD_URL_HERE)
 
 </div>
 
@@ -36,19 +36,6 @@ Analyze seed hashes, verify provably fair outcomes, and gain a statistical edge 
 | 🤖 **Adaptive Predictions** | Algorithm adapts to ongoing patterns for improved accuracy |
 | ⚡ **Lightweight & Fast** | Minimal performance impact — runs seamlessly in your browser |
 | 🔑 **Activation Key System** | Secure key-based activation with free and premium tiers |
-
-## 🆓 Free vs Premium
-
-| | Free | Premium |
-|---|:---:|:---:|
-| Basic predictions | ✅ | ✅ |
-| Seed hash analysis | ✅ | ✅ |
-| Provably fair verification | ✅ | ✅ |
-| Advanced pattern detection | ❌ | ✅ |
-| Priority support | ❌ | ✅ |
-| Early access to updates | ❌ | ✅ |
-
-> 💬 Contact **xizdriab** on Discord for premium access and pricing.
 
 ## 🚀 Installation
 
