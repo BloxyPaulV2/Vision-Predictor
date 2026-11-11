@@ -11,6 +11,7 @@ Analyze seed hashes, verify provably fair outcomes, and gain a statistical edge 
 
 [![License](https://img.shields.io/badge/License-Source_Available-blue.svg)](#license)
 [![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?logo=googlechrome&logoColor=white)](#installation)
+[![Bloxflip](https://img.shields.io/badge/Bloxflip-Supported-orange)](#)
 [![Discord](https://img.shields.io/badge/Discord-xizdriab-5865F2?logo=discord&logoColor=white)](https://discord.com/users/xizdriab)
 
 ---
@@ -19,9 +20,9 @@ Analyze seed hashes, verify provably fair outcomes, and gain a statistical edge 
   <img src="https://img.shields.io/badge/Download_Latest_Release-2ea043?style=for-the-badge&logo=download&logoColor=white" alt="Download" />
 </a>
 
-<br/>
-
-<sub><font color="#8b949e">👆 Click the button above to download the latest version</font></sub>
+<p align="center">
+  <font color="#8b949e">👆 <i>Click the button above to download the latest version</i></font>
+</p>
 
 </div>
 
