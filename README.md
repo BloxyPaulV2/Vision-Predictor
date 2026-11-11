@@ -17,7 +17,7 @@ Analyze seed hashes, verify provably fair outcomes, and gain a statistical edge 
 ---
 
 <a href="YOUR_DOWNLOAD_URL_HERE">
-  <img src="https://img.shields.io/badge/Download_Latest_Release-2ea043?style=flat&logo=download&logoColor=white" alt="Download" height="40" />
+  <img src="https://img.shields.io/badge/Download_Latest_Release-2ea043?style=for-the-badge&logo=download&logoColor=white" alt="Download" />
 </a>
 
 </div>
