@@ -17,7 +17,7 @@ Analyze seed hashes, verify provably fair outcomes, and gain a statistical edge 
 ---
 
 <a href="YOUR_DOWNLOAD_URL_HERE">
-  <img src="https://img.shields.io/badge/⬇_DOWNLOAD_VISION_PREDICTOR-00C853?style=for-the-badge&logo=github&logoColor=white&labelColor=00C853" alt="Download Vision Predictor" height="50" />
+  <img src="https://img.shields.io/badge/⬇_DOWNLOAD_VISION_PREDICTOR-00C853?style=for-the-badge&logo=github&logoColor=white&labelColor=00C853" alt="Download Vision Predictor" height="200" />
 </a>
 
 </div>
