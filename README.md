@@ -11,7 +11,6 @@ Analyze seed hashes, verify provably fair outcomes, and gain a statistical edge 
 
 [![License](https://img.shields.io/badge/License-Source_Available-blue.svg)](#license)
 [![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?logo=googlechrome&logoColor=white)](#installation)
-[![Bloxflip](https://img.shields.io/badge/Bloxflip-Supported-orange)](#)
 [![Discord](https://img.shields.io/badge/Discord-xizdriab-5865F2?logo=discord&logoColor=white)](https://discord.com/users/xizdriab)
 
 ---
@@ -20,7 +19,9 @@ Analyze seed hashes, verify provably fair outcomes, and gain a statistical edge 
   <img src="https://img.shields.io/badge/Download_Latest_Release-2ea043?style=for-the-badge&logo=download&logoColor=white" alt="Download" />
 </a>
 
-**👆 Click the button above to download the latest version**
+<br/>
+
+<sub><font color="#8b949e">👆 Click the button above to download the latest version</font></sub>
 
 </div>
 
@@ -36,7 +37,8 @@ Analyze seed hashes, verify provably fair outcomes, and gain a statistical edge 
 |---------|-------------|
 | 🔐 **Seed & Hash Analysis** | Deep analysis of server seeds and hash values to identify patterns |
 | 🤖 **AI Coach** | Intelligent coaching system that guides your gameplay decisions |
-| ⚡ **Quick Join** | Instantly join games with one click — no delays |
+| ⚡ **Quick Join** | Instantly join games based on your selected values and items — zero delays |
+| 🚀 **More to Come** | More features, enhancements, and upcoming game support are in active development |
 
 ## 🚀 Installation
 
@@ -47,10 +49,6 @@ Since this extension is not published on the Chrome Web Store, you'll need to in
 1. **Download the extension**
    ```
    Click the green "Code" button → "Download ZIP"
-   ```
-   Or clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/vision-predictor.git
    ```
 
 2. **Extract the ZIP** (if downloaded as ZIP)
@@ -74,69 +72,9 @@ Since this extension is not published on the Chrome Web Store, you'll need to in
 > [!TIP]
 > Pin the extension to your toolbar for quick access: click the **puzzle piece icon** → **pin** Vision Predictor.
 
-## 🔧 Usage
-
-1. **Navigate** to [bloxflip.com](https://bloxflip.com) and log into your account
-2. **Click** the Vision Predictor icon in your Chrome toolbar
-3. **Enter your activation key** when prompted (contact **xizdriab** on Discord to obtain one)
-4. **Start analyzing** — the extension will automatically begin reading game data
-5. **View predictions** and statistics directly in the extension panel
-
-## ⚙️ Configuration
-
-Vision Predictor works **out of the box** — no API keys, tokens, or complex setup required. Simply:
-
-- Install the extension
-- Enter your activation key
-- Start using it on Bloxflip
-
-The extension automatically detects game data and begins analysis when you're on the Bloxflip website.
-
-## 🛡️ How It Works
-
-```
-┌─────────────┐     ┌──────────────┐     ┌─────────────────┐
-│  Bloxflip   │────▶│  Seed & Hash │────▶│   Provably Fair │
-│  Game Data  │     │   Extraction │     │  Verification   │
-└─────────────┘     └──────────────┘     └────────┬────────┘
-                                                   │
-                    ┌──────────────┐     ┌─────────▼────────┐
-                    │  Prediction  │◀────│ Pattern Analysis │
-                    │   Output     │     │  & Adaptation    │
-                    └──────────────┘     └──────────────────┘
-```
-
-1. **Data Collection** — Captures game seeds and hash values from Bloxflip
-2. **Hash Verification** — Validates outcomes through provably fair cryptographic checks
-3. **Pattern Analysis** — Analyzes historical seed data to detect recurring patterns
-4. **Adaptive Prediction** — Generates predictions that improve over time by adapting to observed patterns
-
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to improve Vision Predictor:
-
-1. **Fork** the repository
-2. **Create** a feature branch
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
-3. **Commit** your changes
-   ```bash
-   git commit -m "Add amazing feature"
-   ```
-4. **Push** to the branch
-   ```bash
-   git push origin feature/amazing-feature
-   ```
-5. **Open** a Pull Request
-
-> [!IMPORTANT]
-> Please open an issue first to discuss major changes before submitting a PR.
-
 ## 📞 Support & Contact
 
 - **Discord:** [xizdriab](https://discord.com/users/xizdriab)
-- **Issues:** [GitHub Issues](../../issues)
 
 For activation keys, premium access, or general questions — reach out on Discord!
 
