@@ -20,6 +20,8 @@ Analyze seed hashes, verify provably fair outcomes, and gain a statistical edge 
   <img src="https://img.shields.io/badge/Download_Latest_Release-2ea043?style=for-the-badge&logo=download&logoColor=white" alt="Download" />
 </a>
 
+**👆 Click the button above to download the latest version**
+
 </div>
 
 ## 📖 About
