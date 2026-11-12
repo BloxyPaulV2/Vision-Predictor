@@ -22,8 +22,6 @@ Analyze seed hashes, verify provably fair outcomes, and gain a statistical edge 
 
 </div>
 
-$$\tiny\color{gray}\textsf{👆 Click the button above to download the Vision Predictor}$$
-
 ## 📖 About
 
 **Vision Predictor** is a Chrome extension designed for [Bloxflip](https://bloxflip.com) that leverages **seed & hash analysis** combined with **provably fair verification** to deliver intelligent game predictions. It processes historical data, calculates seed hash values, and adapts to patterns — giving you data-driven insights in real time.
@@ -75,7 +73,8 @@ Since this extension is not published on the Chrome Web Store, you'll need to in
 
 - **Discord:** [xizdriab](https://discord.com/users/xizdriab)
 
-For activation keys, premium access, or general questions — reach out on Discord!
+> [!NOTE]
+> For activation keys or questions reach out on Discord!
 
 ## ⚠️ Disclaimer
 
